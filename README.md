@@ -18,6 +18,6 @@ AlgoVision is an **interactive sorting algorithm visualizer** built with **React
 
 ### 🔗 Live Demo & Code
 
-* **Live App**: \[Your Live Link Here]
+* **Live App**: \[https://sorting-visualizer-xi-ten.vercel.app/]
 * **GitHub Repo**: \[Repo Link]
 
